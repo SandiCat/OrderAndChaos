@@ -1,0 +1,5 @@
+/data_mnt/code/csharp/OrderAndChaos/OrderAndChaos/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/data_mnt/code/csharp/OrderAndChaos/OrderAndChaos/bin/Release/OrderAndChaos.exe.mdb
+/data_mnt/code/csharp/OrderAndChaos/OrderAndChaos/bin/Release/OrderAndChaos.exe
+/data_mnt/code/csharp/OrderAndChaos/OrderAndChaos/obj/x86/Release/OrderAndChaos.exe
+/data_mnt/code/csharp/OrderAndChaos/OrderAndChaos/obj/x86/Release/OrderAndChaos.exe.mdb
